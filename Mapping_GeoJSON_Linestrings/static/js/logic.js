@@ -104,6 +104,3 @@ d3.json(torontoData).then (function(data) {
             }
         }).addTo(map);
 });
-
-
-// https://api.mapbox.com/styles/v1/mapbox/navigation-preview-night-v2.html?title=true&access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NDg1bDA1cjYzM280NHJ5NzlvNDMifQ.d6e-nNyBDtmQCVwVNivz7A#0.79/0/0
